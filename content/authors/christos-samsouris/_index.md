@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Christos Samsouris
+title: Christos Samsouris
 
 # Username (this should match the folder name)
 authors:

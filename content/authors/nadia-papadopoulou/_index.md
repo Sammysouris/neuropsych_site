@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Nadia Papadopoulou
+title: Nadia Papadopoulou
 
 # Username (this should match the folder name)
 authors:
