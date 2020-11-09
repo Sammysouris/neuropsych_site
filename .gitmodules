@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Sammysouris/neuropsych_site.github.io.git
+	branch = master
