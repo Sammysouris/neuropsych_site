@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Analysis in Neuropsychology
+role: Neuropsychology And Neuroimaging Data Analysis
 
 # Organizations/Affiliations
 organizations:
@@ -24,15 +24,19 @@ organizations:
 bio: 
 
 interests:
-- 
+- Brain and Cognition
+- Neuroimaging Techniques
+- Data Analysis
+- Statistics
+- Programming
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
+  - course: MSc in Brain and Cognitive Sciences
+    institution: University van Amsterdam
+    year: 2016
+  - course: BA in Biology
+    institution: Aristotle university of thessaloniki
     year: 
   - course: 
     institution: 
@@ -45,16 +49,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "sammysouris@gmail.com".
+- icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/christos-samsouris/
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=m21Zv9IAAAAJ&hl=el
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/Sammysouris
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,5 +73,5 @@ email: ""
 user_groups:
 - PhD Candidates
 ---
-
+My are of research is the effects of brain lateralisation during written language production using functional Transcranial Dopler sonography (fTDC). I am also interested in implementing modern tools for the better and more meaningful processing of neuroimaging data.
 
