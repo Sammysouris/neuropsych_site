@@ -29,7 +29,7 @@ font = "minimal"
 font_size = "L"
 
 # Instead of title show image
-# logo = "logo-brfaa.jpg"
+logo = "logo-brfaa.jpg"
 
 ############################
 ## Basic Info
