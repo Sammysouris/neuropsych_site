@@ -46,6 +46,4 @@ subtitle = "We are housed at the `Biomedical Research Foundation, Academy of Ath
  # CSS class.
  css_class = ""
 +++
-
-# [**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
- {{< figure library="true" src="brain_laterality.png" title="" numbered="true" lightbox="true" >}}
+{{< figure library="true" src="brain_laterality.png" title="" numbered="true" lightbox="true" >}}
