@@ -5,6 +5,11 @@
 
 [[main]]
   name = "Home"
+  url = "#info"
+  weight = 5
+
+[[main]]
+  name = "PI"
   url = "#about"
   weight = 10
 
@@ -39,7 +44,7 @@
   weight = 70  
 
 [[main]]
-  name = "Science Communication"
+  name = "Public Engagement"
   url = "#sci_com"
   weight = 80  
 
