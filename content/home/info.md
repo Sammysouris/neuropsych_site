@@ -12,7 +12,7 @@ subtitle = "We are housed at the `Biomedical Research Foundation, Academy of Ath
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,5 +47,5 @@ subtitle = "We are housed at the `Biomedical Research Foundation, Academy of Ath
  css_class = ""
 +++
 
-[**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
-# {{< figure library="true" src="brain_laterality.png" title="" numbered="true" lightbox="true" >}}
+# [**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
+ {{< figure library="true" src="brain_laterality.png" title="" numbered="true" lightbox="true" >}}
