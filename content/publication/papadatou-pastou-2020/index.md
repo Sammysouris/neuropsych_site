@@ -1,26 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Human handedness: A meta-analysis'
+title: 'Cerebral laterality for writing in right- and left- handers: A functional
+  transcranial Doppler ultrasound study'
 subtitle: ''
 summary: ''
 authors:
 - Marietta Papadatou-Pastou
-- Eleni Ntolka
-- Judith Schmitz
-- Maryanne Martin
-- Marcus R. Munafò
-- Sebastian Ocklenburg
-- Silvia Paracchini
-tags:
-- '"Cerebral asymmetries"'
-- '"Hand preference"'
-- '"Handedness"'
-- '"Laterality"'
-- '"Meta-analysis"'
+- Panagiotis Sampanis
+- Ioannis Koumzis
+- Sofia Stefanopoulou
+- Dionysia Sousani
+- Athina Tsigkou
+- Nicholas Badcock
+tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-08T11:35:01+02:00
+date: '2020-07-01'
+lastmod: 2021-02-10T12:51:12+02:00
 featured: false
 draft: false
 
@@ -38,32 +34,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:10.792430Z'
+publishDate: '2021-02-10T10:51:12.456700Z'
 publication_types:
 - '2'
-abstract: Across time and place, right hand preference has been the norm, but what
-  is the precise prevalence of leftand right-handedness? Frequency of left-handedness
-  has shaped and underpinned different fields of research, from cognitive neuroscience
-  to human evolution, but reliable distributional estimates are still lacking. While
-  hundreds of empirical studies have assessed handedness, a large-scale, comprehensive
-  review of the prevalence of handedness and the factors that moderate it, is currently
-  missing. Here, we report 5 meta-analyses on hand preference for different manual
-  tasks and show that left-handedness prevalence lies between 9.3% (using the most
-  stringent criterion of left-handedness) to 18.1% (using the most lenient criterion
-  of nonright-handedness), with the best overall estimate being 10.6% (10.4% when
-  excluding studies assessing elite athletes' handedness). Handedness variability
-  depends on (a) study characteristics, namely year of publication and ways to measure
-  and classify handedness, and (b) participant characteristics, namely sex and ancestry.
-  Our analysis identifies the role of moderators that require taking into account
-  in future studies on handedness and hemispheric asymmetries. We argue that the same
-  evolutionary mechanisms should apply across geographical regions to maintain the
-  roughly 1:10 ratio, while cultural factors, such as pressure against left-hand use,
-  moderate the magnitude of the prevalence of left-handedness. Although handedness
-  appears as a straightforward trait, there is no universal agreement on how to assess
-  it. Therefore, we urge researchers to fully report study and participant characteristics
-  as well as the detailed procedure by which handedness was assessed and make raw
-  data publicly available.
-publication: '*Psychological Bulletin*'
+abstract: 'The cerebral lateralization of written language has received very limited
+  research attention in comparison to the wealth of studies on the cerebral lateralization
+  of oral language. The purpose of the present study was thus to further our understanding
+  of written language lateralization, by elucidating on the relative contribution
+  of language and motor areas. This was achieved by comparing written word generation
+  with a writing task that has similar visuomotor demands, but does not include language
+  (i.e., the repeated drawing of symbols). We assessed cerebral laterality in 54 left-
+  and right-handed participants by means of functional transcranial Doppler ultrasound
+  (fTCD), a non-invasive, perfusion-sensitive neuroimaging technique. Our findings
+  suggest that, in right-handers, the linguistic aspect of the written word generation
+  task recruited left-hemispheric areas during writing, similarly to oral language
+  production. In left-handers, we failed to observe the same effect, possibly due
+  to the great variability in cerebral laterality patterns within this group or alternatively
+  due to the attentional demands of the symbol copying task. Future work could investigate
+  such demands using both simple and complex stimuli in the copying condition.  ###
+  Competing Interest Statement  The authors have declared no competing interest.'
+publication: '*bioRxiv*'
 url_pdf: https://doi.org/10.1101/2020.07.14.203588
-doi: 10.1037/bul0000229
+doi: 10.1101/2020.07.14.203588
 ---

@@ -2,9 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Supporting mental health, wellbeing and study skills in Higher Education:
-  An online intervention system 11 Medical and Health Sciences 1117 Public Health
-  and Health Services 17 Psychology and Cognitive Sciences 1701 Psychology 13 Education
-  1303 Specialist Studies in Education'
+  An online intervention system'
 subtitle: ''
 summary: ''
 authors:
@@ -18,8 +16,8 @@ tags:
 - '"Self-help"'
 - '"Students"'
 categories: []
-date: '2018-01-01'
-lastmod: 2020-11-08T12:08:04+02:00
+date: '2018-10-01'
+lastmod: 2021-02-10T12:51:09+02:00
 featured: false
 draft: false
 
@@ -37,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:03.609947Z'
+publishDate: '2021-02-10T10:51:09.466558Z'
 publication_types:
 - '2'
 abstract: 'Background: Dealing with psychological and study skill difficulties can
@@ -55,6 +53,6 @@ abstract: 'Background: Dealing with psychological and study skill difficulties c
   and evidence-basis. Finally, it presents future directions in the evaluation, assessment,
   and evidence of the fitness-for-purpose process.'
 publication: '*International Journal of Mental Health Systems*'
-url_pdf: https://doi.org/10.1186/s13033-018-0233-z
+url_pdf: https://ijmhs.biomedcentral.com/articles/10.1186/s13033-018-0233-z
 doi: 10.1186/s13033-018-0233-z
 ---

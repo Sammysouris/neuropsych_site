@@ -1,18 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Are connectionist models neurally plausible? A critical appraisal
+title: 'Handedness and language lateralization: Why are we right-handed and left-brained?'
 subtitle: ''
 summary: ''
 authors:
-- M. PAPADATOU-PASTOU
-tags:
-- '"Handedness"'
-- '"Language"'
-- '"Laterality"'
+- Marietta Papadatou-Pastou
+tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2020-11-08T12:05:40+02:00
+lastmod: 2021-02-10T12:51:04+02:00
 featured: false
 draft: false
 
@@ -30,10 +27,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:07.192020Z'
+publishDate: '2021-02-10T10:51:04.088891Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Encephalos*'
-url_pdf: http://www.encephalos.gr/48-1-01e.htm
+abstract: Around 90% of humans prefer their right hand for unimanual actions and are
+  left-hemisphere dominant for language functions; a pattern far from negligible.
+  The phenomena of handedness and cerebral lateralization for language are presented
+  along with the different theories that attempt to explain the presence of these
+  functional asymmetries. The focus is on the adaptive advantages both on the individual
+  and the population level. Most importantly, the intriguing question of why humans
+  are right-handed and left-brained and not the other way around is tackled; a number
+  of evolutionary, cultural, and genetic accounts are presented, along with theories
+  that explain the observed pattern of asymmetries by means of the different properties
+  of the two cerebral hemispheres.
+publication: '*Hellenic Journal of Psychology*'
+url_pdf: https://psycnet.apa.org/record/2014-15116-001
 ---

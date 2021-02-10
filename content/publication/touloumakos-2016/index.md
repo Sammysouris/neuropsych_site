@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Online support system for students in higher education: Proof-of-concept study'
+title: 'Online support system for students in higher education: Proof-of-concept study.'
 subtitle: ''
 summary: ''
 authors:
@@ -12,18 +12,14 @@ authors:
 - Mark Haddad
 - Patapia Tzotzoli
 tags:
-- '"19 january 2016"'
-- '"20 may 2016"'
-- '"acceptance date"'
+- '"Online support system"'
 - '"anxiety and depression"'
 - '"higher education"'
-- '"online support system"'
 - '"students"'
 - '"study skills"'
-- '"submission date"'
 categories: []
 date: '2016-01-01'
-lastmod: 2020-11-08T12:08:12+02:00
+lastmod: 2021-02-10T12:51:06+02:00
 featured: false
 draft: false
 
@@ -41,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:12.005160Z'
+publishDate: '2021-02-10T10:51:06.172475Z'
 publication_types:
 - '2'
 abstract: Background Providing support to the increasing numbers of students facing
@@ -65,6 +61,7 @@ abstract: Background Providing support to the increasing numbers of students fac
   dealing with cases with mild to moderate difficulties, hence allowing SSS to prioritise
   and effectively address more severe cases. Potentially this method can provide a
   meaningful alternative to SSS; this is worth investigating further.
-publication: '*Digital Health*'
+publication: '*Digital health*'
+url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/29942560 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6001197
 doi: 10.1177/2055207616655012
 ---

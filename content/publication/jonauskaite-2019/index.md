@@ -23,7 +23,7 @@ tags:
 - '"Multivariate pattern classification"'
 categories: []
 date: '2019-01-01'
-lastmod: 2020-11-08T12:08:04+02:00
+lastmod: 2021-02-10T12:51:11+02:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:04.208643Z'
+publishDate: '2021-02-10T10:51:11.248789Z'
 publication_types:
 - '2'
 abstract: The link between colour and emotion and its possible similarity across cultures
@@ -61,5 +61,6 @@ abstract: The link between colour and emotion and its possible similarity across
   show that machine learning is a promising tool when analysing complex datasets from
   emotion research.
 publication: '*Royal Society Open Science*'
+url_pdf: https://royalsocietypublishing.org/doi/abs/10.1098/rsos.190741
 doi: 10.1098/rsos.190741
 ---

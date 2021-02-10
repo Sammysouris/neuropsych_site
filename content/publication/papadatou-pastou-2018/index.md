@@ -1,25 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Learning Styles Educational Neuromyth: Lack of Agreement Between Teachers'\
-  \ Judgments, Self-Assessment, and Students' Intelligence"
+title: 'Handedness and cognitive ability: Using meta-analysis to make sense of the
+  data'
 subtitle: ''
 summary: ''
 authors:
 - Marietta Papadatou-Pastou
-- Maria Gritzali
-- Alexia Barrable
 tags:
-- '"VAK"'
-- '"auditory"'
-- '"intelligence"'
-- '"kinaesthetic"'
-- '"learning styles"'
-- '"neuromyths"'
-- '"visual"'
+- '"Cognitive ability"'
+- '"Hand preference"'
+- '"Hand skill"'
+- '"Handedness"'
+- '"Intelligence"'
+- '"Meta-analysis"'
 categories: []
 date: '2018-01-01'
-lastmod: 2020-11-08T12:08:10+02:00
+lastmod: 2021-02-10T12:51:08+02:00
 featured: false
 draft: false
 
@@ -37,24 +34,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:09.550200Z'
+publishDate: '2021-02-10T10:51:08.541610Z'
 publication_types:
-- '2'
-abstract: Learning styles (LS) have dominated educational practice since their popularization
-  in the 1970s. Studies have shown that they are accepted by more than 90% of teachers
-  worldwide. However, LS have also received extensive criticism from researchers and
-  academics, due to the poor theoretical justification of the theory, their problematic
-  measurement, and the lack of systematic studies supporting them. The present study
-  tested the hypothesis that teachers' and students' assessment of preferred LS should
-  correspond. Moreover, it tested whether teachers' judgment of LS is driven by the
-  students' IQ. Both questions were studied for the first time in a systematic fashion
-  within LS research in primary school pupils. Fifth and sixth grade pupils (n = 199)
-  were asked to self-assess their preferred LS, while their teachers were asked to
-  provide their own assessment on individual pupils' LS. No relationship was found
-  between pupils' self-assessment and teachers' assessment, suggesting that teachers
-  cannot assess the LS of their students accurately. Moreover, students' intelligence
-  was not found to drive teachers' assessment of their LS. This study adds to the
-  body of evidence that is skeptical of the adoption of LS in mainstream education.
-publication: '*Frontiers in Education*'
-doi: 10.3389/feduc.2018.00105
+- '6'
+abstract: The literature on the relationship between handedness and cognitive ability
+  is riddled with studies using different conceptualizations of handedness (e.g.,
+  hand preference vs hand skill, direction vs degree, consistency vs inconsistency)
+  and different conceptualizations of cognitive ability (intelligence vs distinct
+  abilities), as well as different measurements thereof. Recently the literature was
+  summarized by means of meta-analytic techniques. The findings show quite robustly
+  that when handedness is assessed as hand preference and individuals are classified
+  according to direction (i.e., as left-handers vs right-handers), no differences
+  in cognitive ability emerge between handedness groups. However, other evidence points
+  to the importance of assessing degree rather than direction of handedness and of
+  employing hand skill rather than hand preference measures. A meta-analysis of such
+  studies has not been possible to date, due to their scarcity. It is here suggested
+  that degree of handedness and hand skill measures are employed in future studies
+  exploring the possible relationship between handedness and cognitive ability so
+  as to elaborate whether or not such a relationship exists and if so, what its characteristics
+  are.
+publication: '*Progress in Brain Research*'
+doi: 10.1016/bs.pbr.2018.06.008
 ---

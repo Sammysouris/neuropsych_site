@@ -17,8 +17,8 @@ tags:
 - '"Negotiation"'
 - '"Ultimatum game"'
 categories: []
-date: '2019-01-01'
-lastmod: 2020-11-08T12:08:03+02:00
+date: '2019-08-01'
+lastmod: 2021-02-10T12:51:10+02:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-08T10:08:03.056167Z'
+publishDate: '2021-02-10T10:51:10.662779Z'
 publication_types:
 - '2'
 abstract: The main paradigm in the study of negotiation is the decision-making approach,
