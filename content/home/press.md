@@ -47,7 +47,7 @@ subtitle = "Some of our work that has been featured in the press"
 
 [**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
 
-1. [The World’s Biggest Study on Left-Handedness](https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-world-s-biggest-study-left-handedness?fbclid=IwAR01dkgS24Lg8WOn_j4_5MZhcW4BEKQ7_0SaY9Ul2lzXRGut_gQtgSH5hfI) on ‘Psychology Today’ 
+1. The World’s Biggest Study on Left-Handedness [‘Psychology Today’](https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-world-s-biggest-study-left-handedness?fbclid=IwAR01dkgS24Lg8WOn_j4_5MZhcW4BEKQ7_0SaY9Ul2lzXRGut_gQtgSH5hfI)
 
 2. Largest Study to Date Asks How Many People Are Left-handed on [Technology Networks](https://www.technologynetworks.com/tn/news/largest-study-to-date-asks-how-many-people-are-left-handed-333058)
 
@@ -108,12 +108,12 @@ subtitle = "Some of our work that has been featured in the press"
 21.	Ocklenburg, S., Isparta, S., Peterburs, J., & Papadatou-Pastou, M. (2019). Paw preferences in cats and dogs: Meta-analysis. Laterality: Asymmetries of Body, Brain and Cognition, 1-31. [Doi](https://doi.org/10.1080/1357650X.2019.1578228)
 
 
-22.	[Left Pawed or Right Pawed: Do Dogs Show a Preference?](https://www.psychologytoday.com/intl/blog/the-asymmetric-brain/201902/left-pawed-or-right-pawed-do-dogs-show-preference?fbclid=IwAR0elgE_Y6o2p5_uYUjZr5gv5u2dHCLIPpxSAoj0H-J48v3_Jt96l51eD_E) on ‘Psychology Today’
+22.	Left Pawed or Right Pawed: Do Dogs Show a Preference? [‘Psychology Today’](https://www.psychologytoday.com/intl/blog/the-asymmetric-brain/201902/left-pawed-or-right-pawed-do-dogs-show-preference?fbclid=IwAR0elgE_Y6o2p5_uYUjZr5gv5u2dHCLIPpxSAoj0H-J48v3_Jt96l51eD_E)
 
 23.	Jonauskaite, D., Mohr, C, Abdel Khalek, A., Abu-Akel, A. …. Papadatou-Pastou, M. ...Zhang, M. (2019). The sun is no fun without rain: Physical environments affect how we feel about yellow across 55 countries. Journal of Environmental Psychology, 66, 101350. [Doi](https://doi.org/10.1016/j.jenvp.2019.101350)
 
 
-24.	[What makes people happy when skies are gray? The color yellow](https://www.sciencemag.org/news/2019/10/what-makes-people-happy-when-skies-are-gray-color-yellow) on ‘Science Magazine’
+24.	What makes people happy when skies are gray? The color yellow [‘Science Magazine’](https://www.sciencemag.org/news/2019/10/what-makes-people-happy-when-skies-are-gray-color-yellow)
 
 25.	Packheiser, J., Schmitz, J., Berretz, G., Rook, N., Abdelkader Serir, A., Papadatou-Pastou, M., & Ocklenburg, O. (2019). Handedness and sex effects on lateral biases in human cradling: Three meta-analyses. Neuroscience and Biobehavioral Reviews, 104, 30-42. [Doi](https://doi.org/10.1016/j.neubiorev.2019.06.035)
 
@@ -132,19 +132,18 @@ subtitle = "Some of our work that has been featured in the press"
 
 30.	Papadatou-Pastou*, M., Gritzali, M., & Barrable, A. (2018). Educational neuromyths using the case of learning styles: Lack of agreement between teachers’ judgments of their students’ Learning Styles, self-assessed Learning Styles, and students’ intelligence. Frontiers in Education: Educational Psychology, [Doi](https://doi.org/10.3389/feduc.2018.00105)
 
-31.	[Enough with the "Learning Styles" Already!](https://blogs.scientificamerican.com/beautiful-minds/enough-with-the-learning-styles-already/?fbclid=IwAR2VsLz4qxdL9kAuRO9yhBYsur56TfXuI2DwLDEByJ_8GsLoYh6ZH1tuGNw) on ‘Scientific American’ 
+31.	Enough with the "Learning Styles" Already! [‘Scientific American’ ](https://blogs.scientificamerican.com/beautiful-minds/enough-with-the-learning-styles-already/?fbclid=IwAR2VsLz4qxdL9kAuRO9yhBYsur56TfXuI2DwLDEByJ_8GsLoYh6ZH1tuGNw)
 
 
 32.	An additional reason to abandon learning styles – teachers and pupils do not agree on the pupils’ preferred learning style on the [British Psychological Society’s Research Digest](https://digest.bps.org.uk/2018/12/12/an-additional-reason-to-abandon-learning-styles-teachers-and-pupils-do-not-agree-on-the-pupils-preferred-learning-style/)
 
 
-33.	['Learning Styles' Aren't a Reliable Way to Categorize Students, Study Says](https://blogs.edweek.org/teachers/teaching_now/2018/12/learning_styles_not_reliable.html?fbclid=IwAR2ntDF4wee0wcv9iq9Dg8kyxVcVXgIoLRvE-9PX9i6ZPwB2iJJ0bkBuX1o)  on ‘Education Week Teacher’
-
+33.	'Learning Styles' Aren't a Reliable Way to Categorize Students, Study Says [‘Education Week Teacher’](https://blogs.edweek.org/teachers/teaching_now/2018/12/learning_styles_not_reliable.html?fbclid=IwAR2ntDF4wee0wcv9iq9Dg8kyxVcVXgIoLRvE-9PX9i6ZPwB2iJJ0bkBuX1o)
 
 34.	Ntolka^, E., & Papadatou-Pastou^*, M. (2018). Right-handers have negligibly higher IQ scores than left-handers: Systematic review and meta-analyses. Neuroscience & Biobehavioral Reviews, 84,376-393. [Doi](https://doi.org/10.1016/j.neubiorev.2017.08.007)
 
 
-35.	[Are Left-Handers Smarter Than Right-Handers?](https://www.psychologytoday.com/us/blog/the-asymmetric-brain/201903/are-left-handers-smarter-right-handers) on ‘Psychology Today’
+35.	Are Left-Handers Smarter Than Right-Handers? [‘Psychology Today’](https://www.psychologytoday.com/us/blog/the-asymmetric-brain/201903/are-left-handers-smarter-right-handers)
 
 36.	Papadatou-Pastou, M., & Tomprou^, D. M. (2015). Intelligence and handedness: Meta-analyses of studies on intellectually disabled, typically developing and gifted individuals. Neuroscience and Biobehavioural Reviews, 56, 151-156, [Doi](https://doi.org/10.1016/j.neubiorev.2015.06.017)
 
