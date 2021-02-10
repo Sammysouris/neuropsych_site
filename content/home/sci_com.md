@@ -45,8 +45,6 @@ subtitle = ""
  css_class = ""
 +++
 
-[**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
-
 1.  Η επιστήμη της ώρας έναρξης των σχολείων.[link](https://www.tanea.gr/print/2018/09/21/opinions/i-epistimi-tis-oras-enarksis-ton-sxoleion/)
 
 2.  Μαθημένη αβοηθησία-Αποτελεί η αποχή σύμπτωμα της;[link](http://booksjournal.gr/component/k2/item/1715-%CF%84%CE%B5%CF%8D%CF%87%CE%BF%CF%82-62)

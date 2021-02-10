@@ -45,8 +45,6 @@ subtitle = "Some of our work that has been featured in the press"
  css_class = ""
 +++
 
-[**Add some elements here**](https://wowchemy.com/docs/writing-markdown-latex/)
-
 1. The World’s Biggest Study on Left-Handedness [‘Psychology Today’](https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-world-s-biggest-study-left-handedness?fbclid=IwAR01dkgS24Lg8WOn_j4_5MZhcW4BEKQ7_0SaY9Ul2lzXRGut_gQtgSH5hfI)
 
 2. Largest Study to Date Asks How Many People Are Left-handed on [Technology Networks](https://www.technologynetworks.com/tn/news/largest-study-to-date-asks-how-many-people-are-left-handed-333058)
