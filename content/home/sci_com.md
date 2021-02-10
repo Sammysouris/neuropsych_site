@@ -45,64 +45,65 @@ subtitle = ""
  css_class = ""
 +++
 
-1.  Η επιστήμη της ώρας έναρξης των σχολείων.[link](https://www.tanea.gr/print/2018/09/21/opinions/i-epistimi-tis-oras-enarksis-ton-sxoleion/)
+1.  Η επιστήμη της ώρας έναρξης των σχολείων. [link](https://www.tanea.gr/print/2018/09/21/opinions/i-epistimi-tis-oras-enarksis-ton-sxoleion/)
 
-2.  Μαθημένη αβοηθησία-Αποτελεί η αποχή σύμπτωμα της;[link](http://booksjournal.gr/component/k2/item/1715-%CF%84%CE%B5%CF%8D%CF%87%CE%BF%CF%82-62)
+2.  Μαθημένη αβοηθησία-Αποτελεί η αποχή σύμπτωμα της; [link](http://booksjournal.gr/component/k2/item/1715-%CF%84%CE%B5%CF%8D%CF%87%CE%BF%CF%82-62)
 
-3.  Είναι η αποχή απλά σύμπτωμα της «μαθημένης αβοηθησίας;»[link](https://www.protagon.gr/apopseis/editorial/apoxi-einai-apla-sybtwma-tis-mathimenis-avoithisias-43142000000)
+3.  Είναι η αποχή απλά σύμπτωμα της «μαθημένης αβοηθησίας;» [link](https://www.protagon.gr/apopseis/editorial/apoxi-einai-apla-sybtwma-tis-mathimenis-avoithisias-43142000000)
 
-4.  Το πρόβλημα ΔΕΝ είναι δικό σου.[link](https://www.protagon.gr/apopseis/ideas/to-provlima-den-einai-diko-sou-28275000000#!)
+4.  Το πρόβλημα ΔΕΝ είναι δικό σου. [link](https://www.protagon.gr/apopseis/ideas/to-provlima-den-einai-diko-sou-28275000000#!)
 
-5.  Η ομάδα να κερδίζει.[link](https://www.protagon.gr/apopseis/ideas/i-omada-na-kerdizei-26635000000#!)
+5.  Η ομάδα να κερδίζει. [link](https://www.protagon.gr/apopseis/ideas/i-omada-na-kerdizei-26635000000#!)
 
-6.  A net improvement for student wellbeing?[link](https://www.patapiatzotzoli.com/wp-content/uploads/2016/04/A-net-improvement-for-student-wellbeing-2.pdf)
+6.  A net improvement for student wellbeing? [link](https://www.patapiatzotzoli.com/wp-content/uploads/2016/04/A-net-improvement-for-student-wellbeing-2.pdf)
 
-7.  Πώς μπορούμε να υποστηρίξουμε ψυχολογικά τα παιδιά μετά από φυσικές καταστροφές[link](https://www.athensvoice.gr/life/health/463221_pos-mporoyme-na-ypostirixoyme-psyhologika-ta-paidia-meta-apo-fysikes-katastrofes)
+7.  Πώς μπορούμε να υποστηρίξουμε ψυχολογικά τα παιδιά μετά από φυσικές καταστροφές [link](https://www.athensvoice.gr/life/health/463221_pos-mporoyme-na-ypostirixoyme-psyhologika-ta-paidia-meta-apo-fysikes-katastrofes)
 
-8.   4+1 λόγοι γιατί η υιοθεσία από ομόφυλα ζευγάρια κάνει καλό[link](https://www.athensvoice.gr/politics/436283_4-1-logoi-poy-i-yiothesia-apo-omofyla-zeygaria-kanei-kalo)
+8.   4+1 λόγοι γιατί η υιοθεσία από ομόφυλα ζευγάρια κάνει καλό [link](https://www.athensvoice.gr/politics/436283_4-1-logoi-poy-i-yiothesia-apo-omofyla-zeygaria-kanei-kalo)
 
-9.  Οι επιστημονικές δημοσιεύσεις αλλάζουν κανόνες.[link](https://www.athensvoice.gr/world/434339_oi-epistimonikes-dimosieyseis-allazoyn-kanones)
+9.  Οι επιστημονικές δημοσιεύσεις αλλάζουν κανόνες. [link](https://www.athensvoice.gr/world/434339_oi-epistimonikes-dimosieyseis-allazoyn-kanones)
 
-10. Είναι η γάτα ή ο σκύλος σας αριστερόχειρας;[link](https://a8inea.com/ine-i-gata-i-o-skylos-sas-aristerochiras/)
+10. Είναι η γάτα ή ο σκύλος σας αριστερόχειρας; [link](https://a8inea.com/ine-i-gata-i-o-skylos-sas-aristerochiras/)
 
-11. Τα σχολεία πρέπει να ξεκινούν αργότερα στο γυμνάσιο και το λύκειο, αλλά όχι στο δημοτικό;[link](https://a8inea.com/ta-scholia-prepi-na-xekinoun-argotera-sto-gymnasio-ke-to-lykio-alla-ochi-sto-dimotiko/)
+11. Τα σχολεία πρέπει να ξεκινούν αργότερα στο γυμνάσιο και το λύκειο, αλλά όχι στο δημοτικό; [link](https://a8inea.com/ta-scholia-prepi-na-xekinoun-argotera-sto-gymnasio-ke-to-lykio-alla-ochi-sto-dimotiko/)
 
-12. Έξι λόγοι γιατί πρέπει να καταργηθεί η αλλαγή της ώρας[link](https://a8inea.com/6-logi-giati-prepi-na-katargithi-i-allagi-tis-oras/)
+12. Έξι λόγοι γιατί πρέπει να καταργηθεί η αλλαγή της ώρας [link](https://a8inea.com/6-logi-giati-prepi-na-katargithi-i-allagi-tis-oras/)
 
-13. Αρχίζει το ματς: 8 ψυχολογικές εξηγήσεις του Μουντιάλ[link](https://a8inea.com/archizi-to-mats-8-psychologikes-exigisis-tou-mountial/)
+13. Αρχίζει το ματς: 8 ψυχολογικές εξηγήσεις του Μουντιάλ [link](https://a8inea.com/archizi-to-mats-8-psychologikes-exigisis-tou-mountial/)
 
-14. Μαθησιακοί τύποι: Το πιο σύντομο επιστημονικό ανέκδοτο[link](https://a8inea.com/mathisiaki-typi-to-pio-syntomo-epistimoniko-anekdoto/)
+14. Μαθησιακοί τύποι: Το πιο σύντομο επιστημονικό ανέκδοτο [link](https://a8inea.com/mathisiaki-typi-to-pio-syntomo-epistimoniko-anekdoto/)
 
-15. Υιοθεσία από ομόφυλα ζευγάρια: Επιστήμη vs. Απόψεις 1-0.[link](https://a8inea.com/yiothesia-apo-omofyla-zevgaria/)
+15. Υιοθεσία από ομόφυλα ζευγάρια: Επιστήμη vs. Απόψεις 1-0. [link](https://a8inea.com/yiothesia-apo-omofyla-zevgaria/)
 
-16. Είναι οι αριστερόχειρες πιο έξυπνοι από τους δεξιόχειρες;[link](https://a8inea.com/mythos-i-diafores-noimosynis-anamesa-se-dexiochires-aristerochires/)
+16. Είναι οι αριστερόχειρες πιο έξυπνοι από τους δεξιόχειρες; [link](https://a8inea.com/mythos-i-diafores-noimosynis-anamesa-se-dexiochires-aristerochires/)
 
-17. Οι δίαιτες δεν λειτουργούν - αλλά αυτό το ξέρουν μόνο όσοι κάνουν δίαιτα[link](https://a8inea.com/i-dietes-den-litourgoun-alla-afto-to-xeroun-mono-osi-kanoun-dieta/)
+17. Οι δίαιτες δεν λειτουργούν - αλλά αυτό το ξέρουν μόνο όσοι κάνουν δίαιτα [link](https://a8inea.com/i-dietes-den-litourgoun-alla-afto-to-xeroun-mono-osi-kanoun-dieta/)
 
-18. Είναι το Voodoo συνταγή ακαδημαϊκής επιτυχίας; [link](https://a8inea.com/ine-to-voodoo-syntagi-akadimaikis-epitychias/)
+18. Είναι το Voodoo συνταγή ακαδημαϊκής επιτυχίας;  [link](https://a8inea.com/ine-to-voodoo-syntagi-akadimaikis-epitychias/)
 
-19. Ενσυνείδητος εγκέφαλος: Ήρεμος και αφυπνισμένος[link](https://a8inea.com/ensyniditos-egkefalos-iremos-afypnismenos/)
+19. Ενσυνείδητος εγκέφαλος: Ήρεμος και αφυπνισμένος [link](https://a8inea.com/ensyniditos-egkefalos-iremos-afypnismenos/)
 
-20. Τρεις τρόποι να μελετάμε πιο αποτελεσματικά με βάση τις νευροεπιστήμες[link](https://a8inea.com/3-tropi-na-meletame-pio-apotelesmatika-me-vasi-tis-nevroepistimes/)
+20. Τρεις τρόποι να μελετάμε πιο αποτελεσματικά με βάση τις νευροεπιστήμες [link](https://a8inea.com/3-tropi-na-meletame-pio-apotelesmatika-me-vasi-tis-nevroepistimes/)
 
-21. Γλώσσα και εγκέφαλος: Μια σχέση δυνατή, με φόντο το Παρίσι[link](https://a8inea.com/glossa-egkefalos-mia-schesi-dynati-me-fonto-to-parisi/)
+21. Γλώσσα και εγκέφαλος: Μια σχέση δυνατή, με φόντο το Παρίσι [link](https://a8inea.com/glossa-egkefalos-mia-schesi-dynati-me-fonto-to-parisi/)
 
-22. Using voodoo for exams: A recipe for success?[link](https://issuu.com/thelookingglass/docs/thelookingglassiss2)
+22. Using voodoo for exams: A recipe for success? [link](https://issuu.com/thelookingglass/docs/thelookingglassiss2)
 
-23. IQ differences between right-handers and left-handers are negligible[link](https://atlasofscience.org/iq-differences-between-right-handers-and-left-handers-are-negligible/)
+23. IQ differences between right-handers and left-handers are negligible [link](https://atlasofscience.org/iq-differences-between-right-handers-and-left-handers-are-negligible/)
 
-24. Left-handers, you are not smarter after all![link](https://atlasofscience.org/left-handers-you-are/)
+24. Left-handers, you are not smarter after all! [link](https://atlasofscience.org/left-handers-you-are/)
 
-25. Deaf people are more likely to be left-handed - unless they are also signers.[link](https://atlasofscience.org/deaf-people-are-more-likely-to-be-left-handed-unless-they-are-also-signers/)
+25. Deaf people are more likely to be left-handed - unless they are also signers. [link](https://atlasofscience.org/deaf-people-are-more-likely-to-be-left-handed-unless-they-are-also-signers/)
 
-26. Ροζ για τα κορίτσια, μπλε για τα αγόρια, μαθηματικά για όλους.[link](https://www.athensvoice.gr/politics/361611_roz-gia-ta-koritsia-mple-gia-ta-agoria-mathimatika-gia-oloys)
+26. Ροζ για τα κορίτσια, μπλε για τα αγόρια, μαθηματικά για όλους. [link](https://www.athensvoice.gr/politics/361611_roz-gia-ta-koritsia-mple-gia-ta-agoria-mathimatika-gia-oloys)
 
-27. Οι δημοσκοπήσεις επηρεάζουν τη συμπεριφορά των ψηφοφόρων.[link](https://www.athensvoice.gr/politics/108595_oi-dimoskopiseis-epireazoyn-ti-symperifora-ton-psifoforon)
+27. Οι δημοσκοπήσεις επηρεάζουν τη συμπεριφορά των ψηφοφόρων. [link](https://www.athensvoice.gr/politics/108595_oi-dimoskopiseis-epireazoyn-ti-symperifora-ton-psifoforon)
 
-28. Οι πολιτικοί στο ύψος τους.[link](https://www.protagon.gr/themata/technology-science/oi-politikoi-sto-ypsos-tous-43003000000)
+28. Οι πολιτικοί στο ύψος τους. [link](https://www.protagon.gr/themata/technology-science/oi-politikoi-sto-ypsos-tous-43003000000)
 
-29. Φυσική ομορφιά; Σκέφτομαι κάτι καλύτερο...[link](https://www.protagon.gr/apopseis/ideas/fysiki-omorfia-skeftomai-kati-kalytero-40340000000)
+29. Φυσική ομορφιά; Σκέφτομαι κάτι καλύτερο... [link](https://www.protagon.gr/apopseis/ideas/fysiki-omorfia-skeftomai-kati-kalytero-40340000000)
 
-30. Δεν είσαι πιο έξυπνος αριστερόχειρα! (ούτε και λιγότερο, όμως)[link](https://scinews.eu/ta-nea-tis-epistimis/710-den-eisai-pio-eksypnos-aristeroxeira-oyte-kai-ligotero-omos)
+30. Δεν είσαι πιο έξυπνος αριστερόχειρα! (ούτε και λιγότερο, όμως) [link](https://scinews.eu/ta-nea-tis-epistimis/710-den-eisai-pio-eksypnos-aristeroxeira-oyte-kai-ligotero-omos)
 
-31. Are left-handed people really more creative?[link](https://lighthouse.mq.edu.au/article/please-explain/april-2019/are-left-handed-people-really-more-creative)
+31. Are left-handed people really more creative? [link](https://lighthouse.mq.edu.au/article/please-explain/april-2019/are-left-handed-people-really-more-creative)
+
