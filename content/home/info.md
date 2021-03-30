@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "## **Marietta Papadatou-Pastou Group**"
-subtitle = "We are housed at the `Biomedical Research Foundation, Academy of Athens`, Athens, Greece"
+
 
 
 [design]
