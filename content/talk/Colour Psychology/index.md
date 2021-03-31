@@ -1,7 +1,7 @@
 ---
 title: Colour Psychology
 subtitle: ""
-summary: "Implicit and explicit semantic colour-emotion associations."
+summary: "Colour-emotion associations."
 authors: []
 tags: []
 categories: []

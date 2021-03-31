@@ -1,7 +1,7 @@
 ---
 title: Laterality
 subtitle: ""
-summary: "The assymetrical specialisation of certain neurological functions to the one side of the brain."
+summary: "The assymetrical specialisation of neurological functions to the one side of the brain."
 authors: []
 tags: []
 categories: []

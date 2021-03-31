@@ -1,7 +1,7 @@
 ---
 title: Autobiographical memory
 subtitle: ""
-summary: "A memory of a personally experienced event that comes with a sense of recollection or reliving."
+summary: "Self-recolected memories."
 authors: []
 tags: []
 categories: []
