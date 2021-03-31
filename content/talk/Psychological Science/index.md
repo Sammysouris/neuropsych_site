@@ -1,6 +1,6 @@
 ---
 title: Psychological science
-subtitle: ""
+subtitle: "Globally distributed network of psychological science laboratories."
 summary: ""
 authors: []
 tags: []

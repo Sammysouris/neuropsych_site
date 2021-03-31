@@ -1,6 +1,6 @@
 ---
 title: Neuromyths
-subtitle: ""
+subtitle: "Unscientific ideas about the brain in medical culture."
 summary: ""
 authors: []
 tags: []
