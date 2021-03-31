@@ -1,7 +1,7 @@
 ---
 title: iConcipio MePlusMe
-subtitle: "A web-based psychological and academic support system for students in Higher Education."
-summary: ""
+subtitle: ""
+summary: "A web-based psychological and academic support system for students in Higher Education."
 authors: []
 tags: []
 categories: []

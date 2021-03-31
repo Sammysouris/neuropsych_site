@@ -1,7 +1,7 @@
 ---
 title: Meta-analysis
-subtitle: "The analysis of analyses."
-summary: ""
+subtitle: ""
+summary: "The analysis of analyses."
 authors: []
 tags: []
 categories: []
