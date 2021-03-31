@@ -20,13 +20,13 @@
 
 [[main]]
   name = "Research"
-  url = "#talks"
-  weight = 30 
+  url = "#projects"
+  weight = 30
 
 [[main]]
   name = "Funded Projects"
-  url = "#projects"
-  weight = 40
+  url = "#talks"
+  weight = 40 
 
 [[main]]
   name = "News"
