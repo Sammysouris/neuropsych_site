@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+
 ---
 The TIDE program is a European Erasmus+ program coordinated by UNIMORE (University of Modena and Reggio Emilia) in Italy. The consortium also includes the Italian organization ForModena (Formazione Professionale per i Territori Modenesi Soc. Cons. a R.L.), Vienna's Education Council (Stadtschulrat für Wien) from Austria, Goldsmiths, University of London, from the United Kingdom and the National and Kapodistrian University of Athens from Greece. 
 

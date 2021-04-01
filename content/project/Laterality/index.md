@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 Morphological right-left asymmetry appears to be the rule, rather than the exception in nature, all the way from chiral molecules to the Baryon asymmetry in the universe. Asymmetry is the rule for biological systems as well, whereby even single-celled organisms are commonly asymmetric.  

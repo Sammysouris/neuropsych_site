@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 Colours are frequently associated to emotions in how we think and communicate. Whereas popular opinions are clear-cut, results from scientific studies are mixed (e.g., is red negative?). In this project we study implicit and explicit semantic colour-emotion associations.

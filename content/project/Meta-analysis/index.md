@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 The almost explosive rate of growth in the research literature makes it increasingly diffi-cult for scientists to find the underpinning knowledge that the results carry; even more so when findings are confusing and conflicting. Literature reviews could never hope to han-dle such an abundance of data. 

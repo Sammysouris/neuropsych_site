@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 Autobiographical memory

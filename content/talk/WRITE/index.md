@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+
 ---
 Full title: By (writing) hand: Investigating the cerebral laterality during writing using functional transcranial Doppler ultrasonography and the genetic relationship of laterality with special learning difficulties (dyslexia, dysgraphia)
 

@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 The PI is part of a team developing a web-based psychological and academic support system for students in Higher Education ([MePlusMe](https://www.iconcipio.com/)).

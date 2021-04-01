@@ -33,6 +33,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
+projects: []
 ---
 
 The [Psychological Science Accelerator](https://psysciacc.org/) (PSA) is a globally distributed network of psychological science laboratories (currently over 500), representing over 70 countries on all six populated continents, that coordinates data collection for democratically selected studies. Our lab is a member of the PSA, having joined so far studies PSA001, PSA002, PSA002, PSA006 and PSA-COVID19. The PI has also served as an Assistant Director for the Ethics Review Committee.
