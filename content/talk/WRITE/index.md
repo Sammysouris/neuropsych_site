@@ -6,7 +6,7 @@ subtitle: "WRIting lateraliTy and gEnetics"
 summary: ""
 authors: []
 tags: []
-categories: [Projects]
+categories: []
 date: 
 lastmod: 
 featured: false

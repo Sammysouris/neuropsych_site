@@ -4,7 +4,7 @@ subtitle: ""
 summary: "The analysis of analyses."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

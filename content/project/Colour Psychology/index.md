@@ -4,7 +4,7 @@ subtitle: ""
 summary: "Colour-emotion associations."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

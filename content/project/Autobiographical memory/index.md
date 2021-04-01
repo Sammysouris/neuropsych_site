@@ -4,7 +4,7 @@ subtitle: ""
 summary: "Self-recolected memories."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

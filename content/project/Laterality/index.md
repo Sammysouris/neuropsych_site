@@ -4,7 +4,7 @@ subtitle: ""
 summary: "The assymetrical specialisation of neurological functions to the one side of the brain."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

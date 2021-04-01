@@ -4,7 +4,7 @@ subtitle: ""
 summary: "Network of psychological science laboratories."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

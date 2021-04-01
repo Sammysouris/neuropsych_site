@@ -4,7 +4,7 @@ subtitle: ""
 summary: "Unscientific ideas about the brain in medical culture."
 authors: []
 tags: []
-categories: []
+categories: [Projects]
 date: 
 lastmod: 
 featured: false

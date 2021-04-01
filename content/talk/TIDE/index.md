@@ -6,7 +6,7 @@ subtitle: "new Tools for Inclusion of Dyslexic studEnts (2016-2019)"
 summary: ""
 authors: []
 tags: []
-categories: [Projects]
+categories: []
 date: 2020-11-08T12:52:25+02:00
 lastmod: 2020-11-08T12:52:25+02:00
 featured: false
