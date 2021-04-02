@@ -3,7 +3,7 @@
 
 title: "Meta Analysis"
 subtitle: ""
-summary: ""
+summary: "Statistical analyses that combines the results of multiple scientific studies."
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
