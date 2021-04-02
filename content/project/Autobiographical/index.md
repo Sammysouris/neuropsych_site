@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Autobiographical Memory"
-summary: ""
+summary: "A memory of a personally experienced event that comes with a sense of recollection or reliving."
 authors: []
 tags: []
 categories: []
