@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Welcome"
-subtitle: "Our Site Is Ready"
-summary: "This is the new site for the neuropshychology lab led by Marietta Papadatou-Pastou."
+title: "Are you 55 years old or older?"
+subtitle: "Great - click here to take our online survey!"
+summary: ""
 authors: [christos-samsouris]
 tags: []
 categories: []
 date: 2020-11-08T12:58:07+02:00
-lastmod: 2020-11-08T12:58:07+02:00
+lastmod: 2021-04-02T12:58:07+02:00
 featured: false
 draft: false
 
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+We are looking for people over 55 yrs of age, Greek native speakers, to complete the following short survey:  http://www2.unil.ch/onlinepsylab/colour_greek/main.php    It only takes 5-10 minutes and asks about colours and their relationship to emotion. The project is led by the University of Lausanne and you can find more about it here. [το here θα είναι αυτό: https://www.colourexperience.ch/home]

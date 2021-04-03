@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Congnitive Neuroscience in Children with Dyslexia/ Dysgraphia
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - PhD Candidates
 ---
 
-During my undergraduate studies in Biology, in National and Kapodistrian University of Athens, my keen interest in studying the nervous system and behavior grew. Therefore, I proceeded in Athens International Master’s Programme in Neurosciences, in National and Kapodistrian University of Athens, in order to concentrate upon the brain and how its orders are interpreted into behavior.) For my PhD, I am pleased to study the lateralization of the brain in the process of generating written letters and words both in adults and in children with dyslexia and/or dysgraphia, but also how this pattern of lateralization can be altered after phonological intervention.
+During my undergraduate studies in Biology, in the National and Kapodistrian University of Athens (NKUA), my keen interest in studying the nervous system and behavior grew. Therefore, I proceeded with the Athens International Master’s Programme in Neurosciences, offered by the NKUA, in order to focus on the brain and how its functions are interpreted into behavior. For my PhD, I am pleased to study the lateralization of the brain in the process of written language both in adults and in children with dyslexia and/or dysgraphia, but also how lateralization patterns can be altered after a phonological intervention in children with dyslexia.

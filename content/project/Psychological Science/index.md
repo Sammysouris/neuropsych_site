@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Psychological Science"
+title: "Psychological Science Accelerator (PSA)"
 subtitle: ""
 summary: "A globally distributed network of psychological science laboratories."
 authors: []

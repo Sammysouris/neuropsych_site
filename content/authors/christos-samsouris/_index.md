@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Neuropsychology And Neuroimaging Data Analysis
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -37,10 +37,7 @@ education:
     year: 2016
   - course: BA in Biology
     institution: Aristotle university of thessaloniki
-    year: 
-  - course: 
-    institution: 
-    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -73,5 +70,5 @@ email: ""
 user_groups:
 - PhD Candidates
 ---
-My are of research is the effects of brain lateralisation during written language production using functional Transcranial Dopler sonography (fTDC). I am also interested in implementing modern tools for the better and more meaningful processing of neuroimaging data.
+My area of research is brain lateralisation during written language production using functional Transcranial Dopler sonography (fTDC). I am also interested in implementing modern tools for better and more meaningful processing of neuroimaging data.
 
