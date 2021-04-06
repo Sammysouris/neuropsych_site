@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = "Press"
   content = "Some of our research that has been featured in the press."
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -37,7 +37,7 @@ height = ""
 [[item]]
   title = "Public Engagement"
   content = "I am left aligned :smile:"
-  align = "right"
+  align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "public.jpg"  # Image path relative to your `static/media/` folder.
