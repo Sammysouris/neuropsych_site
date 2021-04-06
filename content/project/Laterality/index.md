@@ -7,8 +7,8 @@ summary: "The assymetrical distribution of neurological functions to the differe
 authors: []
 tags: []
 categories: []
-date: 2021-04-01T15:41:09+03:00
-lastmod: 2021-04-06T15:41:09+03:00
+date: 2021-04-06T15:20:23+03:00
+lastmod: 2021-04-06T15:20:23+03:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ Morphological right-left asymmetry appears to be the rule, rather than the excep
 
 Human beings are certainly structurally and functionally asymmetric, from the size of their feet and hands to the placement of visceral organs and facial features. In fact, the two aspects of behavior specific to humans, the use of language and the strong population-level preference for hand use, are both asymmetric, lateralized traits. When it comes to language, the majority of humans are left-hemisphere dominant for language functions, while the right hand is the preferred hand for over 9 out of 10 individuals; a pattern far from negligible.
 
-Laterality is the main focus of our work. We have been studying behavioral laterality (e.g., handedness, footedness, and cradling laterality) as well as brain laterality (also known as brain asymmetry, hemispheric dominance, or hemispheric specialization). We are using [meta-analytic methods](mpapadatoupastou.com/research/Meta-analysis), as well as behavioral, hormonal, and brain imaging techniques to study questions such as sex differences in handedness and brain lateralization, handedness in populations with special education needs, and cerebral laterality during writing. 
+Laterality is the main focus of our work. We have been studying behavioral laterality (e.g., handedness, footedness, and cradling laterality) as well as brain laterality (also known as brain asymmetry, hemispheric dominance, or hemispheric specialization). We are using [meta-analytic methods](mpapadatoupastou.com/research/Meta-Analysis), as well as behavioral, hormonal, and brain imaging techniques to study questions such as sex differences in handedness and brain lateralization, handedness in populations with special education needs, and cerebral laterality during writing. 
 
 This endeavor, apart from its intrinsic interest, gains importance from the fact that the study of handedness and language lateralization contributes to the broader question of individual differences in brain organisation and abilities. Such differences are of key importance to psychiatric, neurological, and neuropsychological research and practice as well as to the study of the genetics of asymmetry.
 
