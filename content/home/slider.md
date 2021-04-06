@@ -7,11 +7,11 @@ weight = 65  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 1500
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "300"
+height = "500"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,7 +36,7 @@ height = "300"
 
 [[item]]
   title = "Public Engagement"
-  content = "I am left aligned :smile:"
+  content = "Άρθρα Εκλαϊκευμένης Επιστήμης"
   align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
