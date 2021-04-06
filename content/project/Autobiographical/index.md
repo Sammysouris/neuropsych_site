@@ -37,7 +37,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+projects: []
 ---
 Autobiographical memory (AM) is a memory of a personally experienced event that comes with a sense of recollection or reliving. AM is organized in a three-level hierarchy: (a) the first level contains memories of periods of life measured in years or decades; (b) the second level corresponds to general memories, such as repeated events distributed in time, measured in days, weeks or years, and (c) the third level comprises rare and specific events measured in minutes or hours. 
 
