@@ -1,49 +1,32 @@
-+++
-# A section created with the Blank widget.
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Public Engagement"
-subtitle = ""
+title: "Public Engagement"
+subtitle: "Άρθρα Εκλαϊκευμένης Επιστήμης"
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 2021-04-06T12:50:57+03:00
+lastmod: 2021-04-06T12:50:57+03:00
+featured: false
+draft: false
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-   image = "university.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-   text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["0px", "0px", "0px", "0px"]
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 1.  Η επιστήμη της ώρας έναρξης των σχολείων. [link](https://www.tanea.gr/print/2018/09/21/opinions/i-epistimi-tis-oras-enarksis-ton-sxoleion/)
 
@@ -106,4 +89,3 @@ subtitle = ""
 30. Δεν είσαι πιο έξυπνος αριστερόχειρα! (ούτε και λιγότερο, όμως) [link](https://scinews.eu/ta-nea-tis-epistimis/710-den-eisai-pio-eksypnos-aristeroxeira-oyte-kai-ligotero-omos)
 
 31. Are left-handed people really more creative? [link](https://lighthouse.mq.edu.au/article/please-explain/april-2019/are-left-handed-people-really-more-creative)
-

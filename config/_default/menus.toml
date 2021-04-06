@@ -38,14 +38,15 @@
   url = "#publications"
   weight = 60 
 
+
 [[main]]
   name = "Press"
-  url = "#press"
+  url = "#slider"
   weight = 70  
 
 [[main]]
   name = "Public Engagement"
-  url = "#sci_com"
+  url = "#slider"
   weight = 80  
 
 [[main]]
@@ -53,10 +54,7 @@
   url = "#contact"
   weight = 90  
 
-[[main]]
-  name = "Slider"
-  url = "#slider"
-  weight = 100  
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
