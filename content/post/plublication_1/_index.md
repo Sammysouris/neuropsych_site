@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The registered report by AK Papadopoulou has been in principle accepted for publication. The title of the registered report is "By (writing) hand: Investigating the cerebral laterality during writing using functional transcranial Doppler ultrasonography and the genetic relationship of laterality with special learning difficulties (dyslexia, dysgraphia)". Contact us if you woul like to be a part of this research.
+This registered report by AK Papadopoulou has been in principle accepted for publication. The title of the registered report is "By (writing) hand: Investigating the cerebral laterality during writing using functional transcranial Doppler ultrasonography and the genetic relationship of laterality with special learning difficulties (dyslexia, dysgraphia)". Contact us if you woul like to be a part of this research.
